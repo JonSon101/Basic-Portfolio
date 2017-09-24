@@ -1,0 +1,98 @@
+body {
+	background-image: url("assets/images/concrete-texture.png")
+	background-color: blue;
+}
+.navigation {
+	background-color: #ffffff;
+	border: solid 1px #cccccc;
+	color: #777777;
+	font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+	height: 40px;
+	overflow: auto;
+	padding-bottom: 15px;
+	margin-bottom: 30px;
+}
+
+.logo {
+	background-color: #4aaaa5;
+	font-family: "Georgia", Times, Times New Roman, serif;
+	float: left;
+	color: white;
+	padding: 20px;
+	margin-left: 10%;
+	font-weight: bold;
+	font-size: 18px;
+}
+.navLink {
+	color: #777777;
+	font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+	float: right;
+	padding: 0px 10px 0px 10px;
+	text-decoration: none;
+	border-right: solid 1px #777777;
+	margin: 20px 0px 20px 0px;
+
+}
+.navLinkContainer {
+	margin-right: 10%;
+}
+.section {
+	background-color: #ffffff;
+	border: solid 1px #cccccc;
+	color: #777777;
+	font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+	padding: 20px;
+	float: left;
+	margin: 0 0 10% 10%;
+	width: 50%;
+	font-weight: bold;
+	clear: both;
+
+}
+
+.sectionHeading {
+	font-family: "Georgia", Times, Times New Roman, serif;
+	color: #4aaaa5;
+	font-size: 24px;
+	padding-bottom: 10px;
+}
+.aboutMeImage {
+	width: 120px;
+	margin: 0 20px 10px 0px;
+	float: left;
+}
+
+.aboutMeParagraph {
+	color: #777777;
+	font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+	line-height: 30px;
+}
+
+.aside {
+	font-family: "Georgia", Times, Times New Roman, serif;
+	float: left;
+	font-weight: bold;
+	color: #4aaaa5;
+	border: solid 1px #cccccc;
+	padding: 20px;
+	margin: 0 10% 0 30px;
+	font-size: 18px;
+}
+
+.iconLink {
+	float: left;
+	overflow: auto;
+	margin: 5px;
+	width: 64px;
+}
+
+.footer {
+	clear: both;
+	background-color: #666666;
+	color: #777777;
+	font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+	padding: 20px;
+	text-align: center;
+	font-size: 12px;
+	border-top: solid 4px #4aaaa5;
+}
